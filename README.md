@@ -1,6 +1,13 @@
 # 🎯 **Quiz Web App**  
 A fun and interactive quiz web application that fetches questions from an API and lets users test their knowledge!  
 
+*COMPANY*: CODTECH IT SOLUTIONS  
+*NAME*: PAIAVULLA NIKHIL  
+*INTERN ID*: CT08TGX  
+*DOMAIN*: FRONT END DEVELOPMENT  
+*DURATION*: 4 WEEKS  
+*MENTOR*: NEELA SANTOSH
+
 ## ✨ **Features**  
 ✅ **Fetches questions dynamically** from an API  
 ✅ **Multiple-choice questions** with instant selection  
