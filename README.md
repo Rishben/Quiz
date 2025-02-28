@@ -72,3 +72,11 @@ Open **PowerShell** or **Command Prompt** and run:
 🔹 Option 1: Double-click index.html to open it in your default browser.
 🔹 Option 2: Use a local server (like Live Server in VS Code) for an improved experience.
 
+## 📝 Output
+
+![Image](https://github.com/user-attachments/assets/a0b02035-a9a7-4afe-a82c-fade65b7c20e)
+
+![Image](https://github.com/user-attachments/assets/04b36914-1562-4f9e-a5ff-a59eb7b3d54b)
+
+![Image](https://github.com/user-attachments/assets/eb8bdf41-ae2b-4908-b00e-88bc418f7b02)
+
