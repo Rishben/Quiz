@@ -1,0 +1,53 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 10;
+    overflow-y: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #4facfe, #00f2fe);
+    background-size: 400% 400%;
+    animation: gradientAnimation 10s ease infinite;
+    font-family: Arial, sans-serif
+}
+
+@keyframes gradientAnimation {
+    0% {background-position: 0% 50%}
+    50% {background-position: 100% 50%}
+    100% {background-position: 0% 50%}
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.options{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+#close, #home{
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: lightblue;
+    height: 30px;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    transition: all 0.1s ease-in;
+}
+
+#close:hover, #home:hover{
+    font-size: x-large;
+    text-decoration: underline;
+    transform: scale(1.1);
+}
+
