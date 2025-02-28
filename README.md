@@ -38,17 +38,37 @@ The goal of this application is to make learning fun by presenting questions in 
 📜 **JavaScript** – Manages the quiz logic, API requests, and interactivity.  
 🔗 **API Integration** – The app fetches quiz questions dynamically from an external API.  
 
-## 🌐 **API Used**  
+## 🌐 **API Used** 
+This web app uses the Open Trivia Database (OpenTDB) API to fetch quiz questions dynamically. The API provides various categories, difficulty levels, and question types, ensuring a diverse and challenging quiz experience 
+
 🔗 **[Open Trivia Database](https://opentdb.com/api.php?amount=10&type=multiple)**  
 
 By combining these technologies, the quiz app delivers a seamless and interactive experience.  
 
+## 🚀 Future Enhancements
+🔹 Leaderboard System – Track high scores and compare results with other players.
+🔹 Category Selection – Users can select specific quiz topics.
+🔹 Timed Quiz Mode – A countdown timer will make the quiz more challenging.
+🔹 Dark Mode – A theme switcher to support both light and dark modes.
+🔹 Sound Effects – Add audio feedback for correct and incorrect answers.
+🔹 Progress Tracking – Save user progress across sessions.
+
+These planned features will enhance the user experience and provide more exciting ways to interact with the quiz.
 ---
 
 ## 📌 How to Run the Project  
 
 Follow these steps to run the **Quiz Web App** on your local system:  
 
+Open **PowerShell** or **Command Prompt** and run:
+
 ### 1️⃣ Clone the Repository  
-Open **PowerShell** or **Command Prompt** and run:  
 'git clone https://github.com/Rishben/Quiz.git'
+
+### 2️⃣ Navigate to the Project Folder
+'cd quiz-web-app'
+
+### 3️⃣ Open the index.html File in a Browser
+🔹 Option 1: Double-click index.html to open it in your default browser.
+🔹 Option 2: Use a local server (like Live Server in VS Code) for an improved experience.
+
